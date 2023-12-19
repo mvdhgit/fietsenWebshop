@@ -1,0 +1,1 @@
+<h1>Productpage - {{ config('app.name') }}</h1> 
